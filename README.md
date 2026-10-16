@@ -1,0 +1,2 @@
+# premium-frame-saw-001-frame-saw-building-blade-ten
+Tired of frame saws that wobble, chatter, or snap blades mid-cut? Stop guessing—your build, tension, and tuning belong in one organized studio.  This Notion template transforms your frame-saw workflow from chaotic bench notes into a repeatable, measurable system. Track blade tension curves, log build specs, and access a live tension calculator—so e
